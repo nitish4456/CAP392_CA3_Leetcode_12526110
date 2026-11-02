@@ -99,7 +99,7 @@ The assignment covers the following Java programming concepts:
 - Java
 - LeetCode
 - Git and GitHub
-- VS Code / IntelliJ IDEA
+- Eclipse
 
 ## 🎯 Objectives
 
